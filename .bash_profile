@@ -1,0 +1,2 @@
+
+alias ghist='git hist'
